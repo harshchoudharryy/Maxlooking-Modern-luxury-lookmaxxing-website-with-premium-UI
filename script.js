@@ -1,8 +1,4 @@
-window.history.scrollRestoration = "manual";
 
-window.onload = () => {
-  window.scrollTo(0, 0);
-};
 
 gsap.registerPlugin(ScrollTrigger);
 
